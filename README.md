@@ -1,2 +1,2 @@
-I use C++, python, and HTML
+I use C++, python, and HTML. 
 im adding more to this readme soon cuz its kinda empty
