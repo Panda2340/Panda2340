@@ -1,5 +1,5 @@
 <h1>hi, i'm Panda2340</h1>
-<p>Developer since September 2020, I am an experienced python developer, and I am learning c++ (i used to be a scratcher, my username was Panda2344)</p>
+<p>Developer since September 2020, I am an experienced python developer, and I am learning c++</p>
 <p>Chat with me <a href="https://github.com/Panda2340/Panda2340/discussions">here</a></p>
 <h2>Programming Languages I use</h2>
 <img src="https://github.com/Panda2340/Panda2340/blob/main/c++logo.png?raw=true" alt="c++logo.png"/>
