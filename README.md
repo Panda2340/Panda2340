@@ -1,6 +1,6 @@
 <h1>Hi, I'm Panda2340</h1>
 <p>Developer since September 2020, I am a Python developer, and I am learning C++</p>
-<p>I am learning C++, and working on InspireOS.</p>
+<p>I am learning C++, and I am also working on InspireOS, and TelNumber (not on GitHub yet).</p>
 <p>Chat with me <a href="https://github.com/Panda2340/Panda2340/discussions">here</a></p>
 <h2>Programming Languages I use</h2>
 <img src="https://github.com/Panda2340/Panda2340/blob/main/c++logo.png?raw=true" alt="c++logo.png"/>
