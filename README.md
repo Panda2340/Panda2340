@@ -10,4 +10,4 @@
 <img src="https://github.com/Panda2340/Panda2340/blob/main/vs2022logo.png?raw=true" alt="vs2022logo.png"/>
 <img src="https://github.com/Panda2340/Panda2340/blob/main/vscode-logo.png?raw=true" alt="vscode-logo.png"/>
 <img src="https://github.com/Panda2340/Panda2340/blob/main/virtualboxlogo.png?raw=true" alt="virtualboxlogo.png"/>
-<p>Sorry that the images are large, I couldnt figure out how to scale them (they are supposed to be 500x500px, but arent)</p>
+<img src="https://github.com/Panda2340/Panda2340/blob/main/Thonny_logo.png?raw=true" alt="Thonny_logo.png"/>
