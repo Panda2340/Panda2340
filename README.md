@@ -1,7 +1,7 @@
 Operating systems I use:
 ChromeOS
 Windows 8.1
-Windows 10
+Windows XP SP2 (for legacy software development using VS2008)
 
 Coding tools/languages I use:
 Python
